@@ -1,0 +1,4 @@
+package datasource
+
+class FoodDataSource {
+}
